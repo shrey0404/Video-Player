@@ -37,7 +37,7 @@ const Header = () => {
         <DrawerOverlay />
         <DrawerContent>
           <DrawerCloseButton></DrawerCloseButton>
-          <DrawerHeader>Vid Vista</DrawerHeader>
+          <DrawerHeader>VidVista</DrawerHeader>
           <DrawerBody>
             <VStack alignItems={'flex-start'}>
               <Button onClick={onClose} variant={'ghost'} colorScheme="purple">
